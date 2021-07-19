@@ -2,7 +2,7 @@
 A react native app where you can search for past and future launch information and information on their rockets etc.
 
 ![]()
-<img src="https://github.com/RussellCarey/SpaceX-React-Native/blob/main/assets/recording.gif" width="100">
+<img src="https://github.com/RussellCarey/SpaceX-React-Native/blob/main/assets/recording.gif" width="400">
 
 ## Table of contents
 
