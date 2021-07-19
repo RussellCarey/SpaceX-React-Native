@@ -35,7 +35,8 @@ A react native app where you can search for past and future launch information a
 
 ## Status
 
-Project is: IN PROGRESS
+Project is: IN PROGRESS. 
+ 
 This was my first react native project. I used it to practice actually making something simple using an API and styled components.   
 I look forward to getting into it more.
 
