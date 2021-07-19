@@ -1,7 +1,8 @@
 # SpaceX launch info, react native app.
 A react native app where you can search for past and future launch information and information on their rockets etc.
 
-![](https://github.com/RussellCarey/SpaceX-React-Native/blob/main/assets/recording.gif)
+![]()
+<img src="https://github.com/RussellCarey/SpaceX-React-Native/blob/main/assets/recording.gif" width="100">
 
 ## Table of contents
 
